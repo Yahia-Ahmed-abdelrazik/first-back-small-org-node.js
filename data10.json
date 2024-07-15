@@ -1,0 +1,7 @@
+[
+  { "id": 1, "fname": "yahi", "lname": "hh", "age": 100 },
+  { "id": 2, "fname": "yahi", "lname": "HMED", "age": "500" },
+  { "id": 3, "fname": "yahi", "lname": "HMED", "age": "50" },
+  { "id": 4, "fname": "weael", "lname": "hh", "age": 400 },
+  { "id": 5, "fname": "aya", "lname": "hh", "age": 500 }
+]
